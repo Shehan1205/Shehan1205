@@ -1,0 +1,74 @@
+{
+  "github": "Shehan1205",
+  "name": "Susitha Shehan",
+  "first_name": "Susitha",
+  "last_name": "Shehan",
+  "role": "Junior Software Developer",
+  "company": "QTLabX",
+  "company_url": "https://qtlabx.com/about",
+  "building": "Rabio Software Solutions",
+  "location": "Sri Lanka",
+
+  "typing_lines": [
+    "Full-stack developer",
+    "Building practical digital experiences",
+    "Learning, building, improving every day",
+    "Web | Mobile | Systems | UI/UX"
+  ],
+
+  "floating_chips": ["Full-stack", "Web + Mobile", "UI/UX"],
+
+  "about": "I'm **Susitha Shehan**, a **Junior Software Developer at [QTLabX](https://qtlabx.com/about)** and a passionate builder behind **Rabio Software Solutions**. I enjoy turning ideas into practical, well-designed applications and continuously improving my skills in software engineering, design, and problem solving.",
+
+  "interests": [
+    "Full-stack development",
+    "Web applications",
+    "Mobile applications",
+    "Responsive UI/UX",
+    "Scalable backend systems"
+  ],
+
+  "tech": [
+    { "group": "Languages", "items": ["HTML5", "CSS3", "JavaScript", "TypeScript", "Java", "Python", "C#", "PHP"] },
+    { "group": "Frameworks", "items": ["React", "Next.js", "Node.js", "NestJS", "Express", "React Native", "Flutter"] },
+    { "group": "Data & Tools", "items": ["MySQL", "PostgreSQL", "MongoDB", "Firebase", "Git", "Docker", "AWS", "Figma"] }
+  ],
+
+  "focus": [
+    { "area": "QTLabX", "text": "Growing as a Junior Software Developer" },
+    { "area": "Rabio Software Solutions", "text": "Building a stronger software brand and project portfolio" },
+    { "area": "Development", "text": "Full-stack apps, clean architecture, and better UI/UX" },
+    { "area": "Learning", "text": "Sharpening engineering skills through real projects" }
+  ],
+
+  "projects": [
+    {
+      "name": "OMS - Order Management System",
+      "status": "In progress",
+      "description": "A multi-tenant system being built to handle orders, shipments, payments, inventory flow, and business operations.",
+      "tags": ["Next.js", "NestJS", "PostgreSQL", "Redis", "TypeScript"]
+    },
+    {
+      "name": "Rabio Software Solutions",
+      "status": "Growing",
+      "description": "A growing software brand focused on web applications, mobile apps, business systems, UI/UX, and digital products.",
+      "tags": ["Web", "Mobile", "POS", "OMS", "E-Commerce", "UI/UX"]
+    }
+  ],
+
+  "console": [
+    { "cmd": "whoami", "out": "Susitha Shehan" },
+    { "cmd": "role --current", "out": "Junior Software Developer at QTLabX" },
+    { "cmd": "project --building", "out": "Rabio Software Solutions" },
+    { "cmd": "mindset", "out": "Build useful things. Keep learning. Keep improving." }
+  ],
+
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/Shehan1205", "color": "181717", "logo": "github" },
+    { "label": "QTLabX", "url": "https://qtlabx.com/about", "color": "0EA5E9", "logo": "" },
+    { "label": "Personal Facebook", "url": "https://www.facebook.com/share/1FMpHUwEFh/", "color": "1877F2", "logo": "facebook" },
+    { "label": "Rabio Facebook", "url": "https://www.facebook.com/share/1CEm1T7WZY/", "color": "8B5CF6", "logo": "facebook" }
+  ],
+
+  "footer_text": "Build useful things. Keep learning. Keep improving."
+}
