@@ -1,76 +1,197 @@
+<!-- Regenerated premium GitHub profile for Shehan1205 -->
 <div align="center">
 
-<img src="assets/ascii-portrait-banner.png" alt="ASCII-art portrait of Susitha Shehan, with a developer introduction" width="100%" />
+<img src="assets/hero.svg" width="100%" alt="Susitha Shehan - Junior Software Developer at QTLabX - Building Rabio Software Solutions" />
 
-### Hey, I'm Susitha Shehan 👋
+# Hi, I'm Susitha Shehan 👋
+### `Junior Software Developer at QTLabX`  •  `Building Rabio Software Solutions`
 
-**Software Developer · Building practical digital experiences**
+[![GitHub](https://img.shields.io/badge/GitHub-Shehan1205-181717?style=for-the-badge&logo=github)](https://github.com/Shehan1205)
+[![QTLabX](https://img.shields.io/badge/QTLabX-About-0EA5E9?style=for-the-badge)](https://qtlabx.com/about)
+[![Personal Facebook](https://img.shields.io/badge/Facebook-Personal-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FMpHUwEFh/)
+[![Rabio Facebook](https://img.shields.io/badge/Rabio-Facebook-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CEm1T7WZY/)
 
-Based in **Sri Lanka** 🇱🇰 · [QTLabx](https://qtlabx.com/about) · Building **Rabio Software Solutions**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Shehan1205-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehan1205)
-[![Facebook](https://img.shields.io/badge/Personal_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1FMpHUwEFh/)
-[![Rabio Facebook](https://img.shields.io/badge/Rabio_Facebook-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1CEm1T7WZY/)
-[![QTLabx](https://img.shields.io/badge/QTLabx-Website-0ea5e9?style=for-the-badge)](https://qtlabx.com/about)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=Full-stack+developer;Building+practical+digital+experiences;Learning%2C+building%2C+improving+every+day;Web+%E2%80%A2+Mobile+%E2%80%A2+Systems+%E2%80%A2+UI%2FUX" alt="Typing animation" />
 
 </div>
 
 ---
 
-### `> about_me`
+## `01 / portrait_ascii`
 
-I'm a software developer who enjoys turning ideas into useful, well-designed applications. I am involved with **[QTLabx](https://qtlabx.com/about)** as a stakeholder and am developing **Rabio Software Solutions** as my own growing software brand.
+> This portrait is generated from my actual photo using only text characters. It is not an embedded photo.
 
-I'm interested in **full-stack applications, software architecture, responsive user experiences, and building products that solve real-world problems**.
+```text
++----===+: =@*---===+%%=--==-=*%%%%#=.  ..:-======-::=#####*=-::-==*%%*-:-=-:---
++-----==+=-*@#=--==+*%@*--====#%%%%%#+---::-=======+*#%%%%##*=::-=+#%@%%#*=-----
+#+----==+#@@@%=:-==*%@@#---==+#%%%%###*+-::--=======*#%%%%%#*=::-==*##*+=-:..
+#=-:---=+#@@@@+::-=*%@@%=:-==+#%%%%%#*+=-:::--:::::-=+*++====-:.:::.  ..
+*=-:::-=+*%@@@+::-=+#@@%=..:-=++=====::.            .-.     ::.....   ..
+*=-:..:-=*#%@%+::--+#@@#-...:=-.   ..                :      .::....   ::.
++=-...:-=+#%@%+:::-=*@@#-...:--    .::.             .:      .::..:.   :-:.
+*=-...:-=+#%@%*-::-=*@@%-...:==-::::--:.... ..       :.      ::..::   --:.
+*+-...::=+#%@@*-::-=*%@%-.:-+*####%%%%####****+-.   .-:     .::..... .-=:.
+*+-:..::-+#%@@#-.::-+%@%==###%@@@@@@@@@@@@@@@@@@%*: .-=-:. .:::...:..:=+=:
+*+-:...:-+*%@@#-..:-+%@%%**%@@@@@@@@@@@@@@@@@@@@@@%*==++=-::--:...:--=++=-.
+#+-:...:-=*%@@%=..:-+%%@**%@@@@@@@@@@@@@@@@@@@@@@@@@%#*++====-:..::-+*#*+=:
+#*-:...:-=*%@@%=:.:-#%@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*++====:..::-+###*=-.
+**=:...:-=*%@@%=::-#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%++==+=:..::-+#%#*+-:.
+**=:...:-=*%@@%+:+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#===+=:...:-=#%#*+-:.
+*+=:...::-+%@@%+:=#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*====:...:-=*#%#+=:..
+*+=:....:-+%@@@+::=*#%%%%@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@*+==:...:--+#%#+=-..
+++-:...::-+%@@@*:.:-+#%@%%#*#%%%%%@@@@@@@@@@@@@@@@@@@@@@@%*+==:. .::-+#%#+=-..
++=-:....:-+#@@@*:..-#%#%%#=*+==+*##%#**@@@@@%@@#@@@@@@@@@#=-==:. ..:-+#%#+=-..
++=-:....:-=#@@@*:..+#%%%#*:+*-=*=*%*####=*@@%%%*%%%@@@@@@%-:--:. ..:-+#%#+=-.
++=-:....:-=#@@@*:..=##****=.-----=**+=#:.:=%%######%@@@@@@+:--:.  .:-+###+=-.
++=-:....::=#@@@#:...=-=.:--  ::---====-  .:-+++++++*@@@@@@=.:-:   ..:=*##+=-:
++==:....::=*@@@#-...::+.-=:.  .::::--:.:.:-++==---=+%@@@@*..:-:   ..:-+##+=-:
+++=:.....:-*@@@#-...:--:=-.:.   ......-=+*###+++=--=%%%%=...:-:    .:-+*#*=-:
+++=-.....:-*%@@%=...:-=-:.::-.    .:=+==+*****%@#==*%%%+. ...::    .:-+##*=-:
++++-.....:-*%@@%=....:+#-..:=...  .=##+===++++++++*#%@%+:. ..::.   .:-+##*=-:
++++-.....:-*%@@%=. ..:+%#: -*-:-:..------=**+====*#%*+=-:.  .::.   .:-+##*+-:.
+*++-.....:-+%@@%+. ..:=%#- .=#=--:--:::---======*%%+ .--:.  .::.   .:-+##*+-:.
+*++-.....:-+%@@%+.  .:=#%-  .-+.-++++=--=+**###%@%*  .--:.  .::.    .-+*#*+=:.
+*++-. ...:-+%@%%+.  .:=#%-    :. :=+**##%@@@@@@%*+=:..--:.. .::.    .-+*#*+=:.
+*++-. ...::=%@%%+:  .:-#%=   -**..---==+#%%%%#*+====-#+-.....::.   .:-=*#*+=:.
+*++-. ....:=#@%%*:  ..-*%=  **%@:--------==+++====++.-%@+::..::.    .:=*#*+=:
+*++-.  ...:=#@%%*:  ..-*%= =@##@-.-=-------=+==+++%+  .*@@@@%%%%#########*+=:
+*++=:  ...:=#%%%*-  ..:+#=-%@%@@=. .-------===+++##.....+@@@@@@@@@@@@@@@@@%*=:.
+***=:  ...:-#%%%#-   .-*%%#@@%@%=:.  .:===-==+++##:......#@@@@@@@@@@@@@@@@@@@@%*
+***+:. ...:-#%%%#=:-+#@@@@%@@@@#+-:..   :=++++**=..:.....%@@@@@@@@@@@@@@@@@@@@@@
+***+:. ...:-*%%%%%%@@@@@@@@@@@@@+-::......:=+*=:.-+**#%#-@@@@@@@@@@@@@@@@@@@@@@@
+***+-.   .:+#%@@@@@@@@@@@@@@@@@@@+:..+%%%%%#%###%@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@
+***+-. .-*%%@@@@@@@@%%%%%@@@@@@@@@#-:%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+***+=-+#%@@@@@@@@@@@@@%%@@@@@@@@@@@@=+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+***++*@%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@*%@@@@@@@@%*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+*+++=*#%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@+*%@@@@@@%=#@@@@@#+@@@@@@@@@@@@@@@@@@@@@@@
++++==*#%@%%%%%@@@@@@@@@@@@@@@@@@@@@@@@%=-=+*#%@=:-+%%*=--%@@@@@@@@@@@@@@@@@@@@@@
+===::-+*%@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@%-::::::.-.:--:--:*@@@@@@@@@@@@@@@@@@@@@@
+-==-: ..=%@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@%-.....:%+.:..-::-@@@@@@@@@@@@@@@@@@@@@@
+====++::.=%@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@#-.....:. :..-:.-@@@@@@@@@@@@@@@@@@@@@@
++===+#-:::#@@%%%*+==*@@@@@@@@@@@@@@@@@@@@@#:..:.   .: ::.-@@@@@@@@@@@@@@@@@@@@@@
++===*#-:::+@@#=::--====+%@@@@@@@@@@@@@@@@@@*:.:.   .. .::-%@@@@@@@@@@@@@@@@@@@@@
++=-+*#:.:::=:::--=+----=+*%@@@@@#++#@@@@@@@@+.::.   . .-:-%@@@@@@@@@@@@@@@@@@@@@
+==-+*#:.:...::---:::=++---+%%#+--:-#@@@@@@@@@-.:..... .-::*@@@@@@@@@@@@@@@@@@@@@
+=--+*#=::.:.:::-::-=+=--**==-:-+#%@@@@@@@@@@@%-::......--:=@@@@@@@@@@@@@@@@@@@@@
+=--*#**:::::------===-=**--++*%@@@@@@@@@@@@@@@#-::+:...---:%@@@@@@@@@@@@@@@@@@@@
+=-=*#**-::::--=======+*+==*%@@@@@@@@@@@@@@@@@@@*:-#=...:--:#@@@@@@@@@@@@@@@@@@@@
+--=##*#=:----====+++**+=+#@@@@@@@@@@@@@@@@@@@@@@+::..:.:=--%@@@@@@@@@@@@@@@@@@@@
+::+#***=----====++++++=*@@@@@@@@@@@@@@@@@@@@@@@@@=::.:.:===@@@@@@@@@@@@@@@@@@@@@
+ .+*+**#+--====++++++*%@@@@@@@@@@@@@@@@@@@@@@@@@@%-:::::==*@@@@@@@@@@@@@@@@@@@@@
+  =++%%=+#*=-===++#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-::::-=%@@@@@@@@@@@@@@@@@@@@@
+ .=+*#@#=*%##**+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*::::-*@@@@@@@@@@@@@@@@@@@@@@
+ .=+#*@@%####@@#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+--:-#@@@@@@@@@@@@@@@@@@@@@@
+..=**+*@@@%%##**%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+--=@@@@@@@@@@@@@@@@@@@@@@@
+..****+*@%#*##%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@=-*@@@@@@@@@@@@@@@@@@@@@@@
+.-#******%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=@@@@@@@@@@@@@@@@@@@@@@@@
+.+*****#%#%@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@
+```
 
-### `> tech_stack`
+---
 
-<!-- Technologies discussed during project planning; adjust this list to reflect your hands-on proficiency. -->
+## `02 / about_me`
 
-**Frontend**
+```yaml
+name: Susitha Shehan
+role: Junior Software Developer
+company: QTLabX
+building: Rabio Software Solutions
+location: Sri Lanka
+interests:
+  - Full-stack development
+  - Web applications
+  - Mobile applications
+  - Responsive UI/UX
+  - Scalable backend systems
+```
 
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-252525?style=flat-square&logo=javascript&logoColor=F7DF1E)
+I'm **Susitha Shehan**, a **Junior Software Developer at [QTLabX](https://qtlabx.com/about)** and a passionate builder behind **Rabio Software Solutions**. I enjoy turning ideas into practical, well-designed applications and continuously improving my skills in software engineering, design, and problem solving.
 
-**Backend & Database**
+---
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Tools & Design**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### `> what_im_building`
-
-| Project | What it is | Status |
-|:--|:--|:--|
-| **OMS — Order Management System** | Planning and building a multi-tenant platform for orders, stock, shipments, and payment workflows. | 🚧 In development |
-| **Rabio Software Solutions** | Developing a modern software brand and animated portfolio experience. | 🚧 In development |
-
-> Project source links will be added once public repositories are ready. Private code and work-in-progress features are not claimed as completed releases.
-
-### `> github_activity`
+## `03 / programming_languages_and_technologies`
 
 <div align="center">
-  <img alt="GitHub contribution streak for Shehan1205" src="https://streak-stats.demolab.com?user=Shehan1205&theme=tokyonight&hide_border=true" />
+<img src="assets/tech-stack.svg" width="100%" alt="Technology stack including HTML, CSS, JavaScript, TypeScript, Java, Python, C#, PHP, React, Next.js, Node.js, NestJS, Express, React Native, Flutter, MySQL, PostgreSQL, MongoDB, Firebase, Git, Docker, AWS and Figma" />
 </div>
 
 <details>
-  <summary>More about my developer journey</summary>
-  <br />
-  I enjoy learning new technologies, improving my engineering process, and experimenting with thoughtful UI and animation. My main focus is on building secure, scalable, maintainable applications.
+<summary><b>Text version of the tech stack</b></summary>
+
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js
+- **Backend:** Node.js, NestJS, Express, Java, Python, C#, PHP, Firebase
+- **Mobile:** React Native, Flutter
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Design:** Git, Docker, AWS, Figma
+
 </details>
 
 ---
 
+## `04 / current_focus`
+
+| Area | What I'm focused on |
+|:--|:--|
+| **QTLabX** | Growing as a Junior Software Developer |
+| **Rabio Software Solutions** | Building a stronger software brand and project portfolio |
+| **Development** | Full-stack apps, clean architecture, and better UI/UX |
+| **Learning** | Sharpening engineering skills through real projects |
+
+---
+
+## `05 / featured_projects`
+
+### `OMS — Order Management System`
+A multi-tenant system being built to handle **orders, shipments, payments, inventory flow, and business operations**.
+
+**Stack:** `Next.js` `NestJS` `PostgreSQL` `Redis` `TypeScript`
+
+### `Rabio Software Solutions`
+A growing software brand focused on **web applications, mobile apps, business systems, UI/UX, and digital products**.
+
+**Focus:** `Web` `Mobile` `POS` `OMS` `E-Commerce` `UI/UX`
+
+---
+
+## `06 / github_activity`
+
 <div align="center">
-  <sub>Made with 💜 by <a href="https://github.com/Shehan1205">Susitha Shehan</a> · Building, learning, improving.</sub>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shehan1205&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shehan1205&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shehan1205&theme=tokyo-night&hide_border=true&radius=12" width="100%" alt="GitHub activity graph" />
+
+</div>
+
+> GitHub stats above are third-party generated cards based on the public activity of **@Shehan1205**.
+
+---
+
+## `07 / developer_console`
+
+```console
+$ whoami
+Susitha Shehan
+
+$ role --current
+Junior Software Developer at QTLabX
+
+$ project --building
+Rabio Software Solutions
+
+$ mindset
+Build useful things. Keep learning. Keep improving.
+```
+
+---
+
+## `08 / connect_with_me`
+
+<div align="center">
+
+[**GitHub**](https://github.com/Shehan1205) • [**QTLabX**](https://qtlabx.com/about) • [**Personal Facebook**](https://www.facebook.com/share/1FMpHUwEFh/) • [**Rabio Facebook**](https://www.facebook.com/share/1CEm1T7WZY/)
+
+<img src="https://komarev.com/ghpvc/?username=Shehan1205&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
+
 </div>
